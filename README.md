@@ -1,4 +1,4 @@
-# Clinical data pediadric rhabdoid tumor
+# Clinical data pediatric rhabdoid tumor
 1. Go to the page on cBioPortal:
 https://www.cbioportal.org/study/summary?id=rt_target_2018_pub
 2. Click on the "Download" tab in the study overview page.
